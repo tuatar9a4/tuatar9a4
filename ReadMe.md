@@ -1,7 +1,7 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&section=header&text=DoWon&fontColor=151842)
 
-나의 기술 스택&nbsp
-<img src="https://img.shields.io/badge/Android-3766AB?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
+나의 기술 스택\n
+<img src="https://img.shields.io/badge/Android-3766AB?style=flat-square&logo=Android&logoColor=white"/></a> 
 
 <!--
 **tuatar9a4/tuatar9a4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
