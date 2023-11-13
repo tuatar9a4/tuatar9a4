@@ -3,6 +3,9 @@
 <p>나의 기술 스택</p>
 <img src="https://img.shields.io/badge/Android-3766AB?style=flat-square&logo=Android&logoColor=white"/>
 
+
+<hr/>
+
 <!--
 **tuatar9a4/tuatar9a4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
