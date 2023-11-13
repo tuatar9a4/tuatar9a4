@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&section=header&text=DoWon&fontColor=151842" />
 
 <p>나의 기술 스택</p>
-<img src="https://img.shields.io/badge/Android-3766AB?style=flat-square&logo=Android&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Android-3766AB?style=flat-square&logo=Android&logoColor=white" background=000000/>
 <img src="https://img.shields.io/badge/Kotlin-3766AB?style=flat-square&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square"/>
 
