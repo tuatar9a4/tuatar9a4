@@ -1,4 +1,4 @@
-![footer](https://capsule-render.vercel.app/api?type=waving&section=header&color=teimGradient&text=DoWon&fontColor=d0d1d9)
+![footer](https://capsule-render.vercel.app/api?type=waving&section=header&text=DoWon&fontColor=151842)
 
 
 
