@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&section=header&text=DoWon&fontColor=151842" />
 
-<h2 align="center">Tech Stack</h2>
+<p align="center">Tech Stack</p>
 <p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white" background=000000/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-77B829?style=flat"/>
 </p>
