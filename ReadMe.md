@@ -2,9 +2,9 @@
 
 <p>Tech Stack</p>
 
-<img src="https://img.shields.io/badge/Android-3766AB?style=flat-square&logo=Android&logoColor=white" background=000000/> <img src="https://img.shields.io/badge/Kotlin-3766AB?style=flat-square&logo=Kotlin&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Java-3766AB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white" background=000000/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-77B829?style=flat-square"/>
 
 <p>Tool</p>
 
