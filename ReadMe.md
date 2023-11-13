@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&section=header&text=DoWon&fontColor=151842" />
 
-<p align="center">Tech Stack</p>
+<h3 align="center"><i class="fa-solid fa-code"></i> Tech Stack</h3>
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
