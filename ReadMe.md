@@ -1,12 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&section=header&text=DoWon&fontColor=151842" />
 
-<p>나의 기술 스택</p>
+<p>Tech Stack</p>
 
-<img src="https://img.shields.io/badge/Android-3766AB?style=flat-square&logo=Android&logoColor=white" background=000000/>
-<img src="https://img.shields.io/badge/Kotlin-3766AB?style=flat-square&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3766AB?style=flat-square&logo=Android&logoColor=white" background=000000/> <img src="https://img.shields.io/badge/Kotlin-3766AB?style=flat-square&logo=Kotlin&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square"/>
 
-<hr/>
+<p>Tool</p>
 
 <!--
 **tuatar9a4/tuatar9a4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
