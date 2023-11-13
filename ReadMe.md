@@ -1,4 +1,4 @@
-![footer](https://capsule-render.vercel.app/api?type=waving&section=header&text=DoWon&fontColor=151842)
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&text=DoWon&fontColor=151842" />
 
 <p>나의 기술 스택</p>
 <img src="https://img.shields.io/badge/Android-3766AB?style=flat-square&logo=Android&logoColor=white"/>
