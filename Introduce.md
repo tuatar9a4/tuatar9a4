@@ -1,5 +1,6 @@
-### Hi there 👋
-![footer](https://capsule-render.vercel.app/api?section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&section=header&color=teimGradient&text=DoWon&fontColor=ffffff)
+
+
 
 <!--
 **tuatar9a4/tuatar9a4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
