@@ -17,10 +17,12 @@
 </p>
 
 <br/>
-<hr/>
+<hr border="none" height="1px" width="80%"/>
+<br/>
 <h3 align="center">⚙️ CurrentProject ⚙️</h3>
 <p align="center"> 워치 연동 달력 프로젝트 Refactoring...[MVVM 적용,DI 적용,Navigation 적용,디자인 수정, 기획 수정]</p>
-
+<br/>
+<br/>
 <h3 align="center">🧩 MyProject 🧩</h3>
 <ul align="center"> 
     <li>MyFoodStyle [주변 음식점의 카테고리와 리뷰를 작성할 수 있는 앱,Naver 지도 api 와 firebase 실시간 데이터 데이스를 사용하여 DB를 구축]</li>
