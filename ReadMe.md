@@ -17,7 +17,7 @@
 </p>
 
 <br/>
-<hr border="none" height="1px" width="80%" text-algin="center"/>
+<hr border="none" height="1px" width="80%" margin="0 auto"/>
 <br/>
 <h3 align="center">⚙️ CurrentProject ⚙️</h3>
 <p align="center"> 워치 연동 달력 프로젝트 Refactoring...[MVVM 적용,DI 적용,Navigation 적용,디자인 수정, 기획 수정]</p>
