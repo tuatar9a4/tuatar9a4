@@ -8,7 +8,7 @@
 </p>
 
 <br/>
-### <h3 align="center">🔩 Tool 🔩</h3>
+<h3 align="center">### 🔩 Tool 🔩</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
