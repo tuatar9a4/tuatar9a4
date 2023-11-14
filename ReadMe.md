@@ -24,13 +24,13 @@
 <br/>
 <br/>
 <h3 align="center">🧩 MyProject 🧩</h3>
-#<center>MyFoodStyle</center>
-<br/>- 주변 음식점의 카테고리와 리뷰를 작성할 수 있는 앱
-<br/>- Naver 지도 api 와 firebase 실시간 데이터 데이스를 사용하여 DB를 구축
+#<center>MyFoodStyle</center><br/>
+- 주변 음식점의 카테고리와 리뷰를 작성할 수 있는 앱<br/>
+- Naver 지도 api 와 firebase 실시간 데이터 데이스를 사용하여 DB를 구축<br/>
 <br/>
 <br/>
-#<center">WatchCalendar [🖊 리팩토링중..]</center>
-<br/>- 갤럭시 워치와 연동된 일정 관리 앱
+#<center">WatchCalendar [🖊 리팩토링중..]</center><br/>
+- 갤럭시 워치와 연동된 일정 관리 앱
 
 
 
