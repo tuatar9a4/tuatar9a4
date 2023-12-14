@@ -20,7 +20,7 @@
 <hr border="none" height="0.5px"/>
 <br/>
 <h3 align="center">⚙️ CurrentProject ⚙️</h3>
-<p align="center"> 워치 연동 달력 프로젝트 Refactoring...[MVVM 적용,DI 적용,Navigation 적용,디자인 수정, 기획 수정]</p>
+<p align="center"> 스프링 부트 Study</p>
 <br/>
 <br/>
 <h3 align="center">🧩 MyProject 🧩</h3>
@@ -29,7 +29,7 @@
 - Naver 지도 api 와 firebase 실시간 데이터 데이스를 사용하여 DB를 구축<br/>
 <br/>
 <br/>
-<b><center">WatchCalendar [🖊 리팩토링중..]</center></b><br/>
+<b><center">WatchCalendar</center></b><br/>
 - 갤럭시 워치와 연동된 일정 관리 앱
 
 
