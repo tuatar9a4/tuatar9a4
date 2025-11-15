@@ -20,7 +20,7 @@
 <hr border="none" height="0.5px"/>
 <br/>
 <h3 align="center">⚙️ CurrentProject ⚙️</h3>
-<p align="center"> 스프링 부트 Study</p>
+<p align="center"> 기획중....One Day One Cut</p>
 <br/>
 <br/>
 <h3 align="center">🧩 MyProject 🧩</h3>
