@@ -20,7 +20,7 @@
 <hr border="none" height="0.5px"/>
 <br/>
 <h3 align="center">⚙️ CurrentProject ⚙️</h3>
-<p align="center"> 기획중....One Day One Cut</p>
+<p align="center"> One Day One Cut 개발 중(Private Repo)</p>
 <br/>
 <br/>
 <h3 align="center">🧩 MyProject 🧩</h3>
