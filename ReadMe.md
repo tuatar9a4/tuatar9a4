@@ -20,7 +20,7 @@
 <hr border="none" height="0.5px"/>
 <br/>
 <h3 align="center">⚙️ CurrentProject ⚙️</h3>
-<p align="center"> One Day One Cut 개발 중(Private Repo)</p>
+<p align="center"> Mart Wagon 개발중 </p>
 <br/>
 <br/>
 <h3 align="center">🧩 MyProject 🧩</h3>
@@ -31,8 +31,10 @@
 <br/>
 <b><center">WatchCalendar</center></b><br/>
 - 갤럭시 워치와 연동된 일정 관리 앱
-
-
+<br/>
+<br/>
+<b><center">Picday</center></b><br/>
+- 하루에 한장과 일정을 남겨 기록하는 앱 
 
 <!--
 **tuatar9a4/tuatar9a4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
