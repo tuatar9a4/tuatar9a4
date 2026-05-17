@@ -20,7 +20,7 @@
 <hr border="none" height="0.5px"/>
 <br/>
 <h3 align="center">⚙️ CurrentProject ⚙️</h3>
-<p align="center"> 적극 이직중.. </p>
+<p align="center"> 적극 취준중.. </p>
 <br/>
 <br/>
 <h3 align="center">🧩 MyProject 🧩</h3>
