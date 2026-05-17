@@ -20,7 +20,7 @@
 <hr border="none" height="0.5px"/>
 <br/>
 <h3 align="center">⚙️ CurrentProject ⚙️</h3>
-<p align="center"> Mart Wagon 개발중 </p>
+<p align="center"> 적극 이직중.. </p>
 <br/>
 <br/>
 <h3 align="center">🧩 MyProject 🧩</h3>
@@ -35,7 +35,10 @@
 <br/>
 <b><center">Picday</center></b><br/>
 - 하루에 한장과 일정을 남겨 기록하는 앱 
-
+<br/>
+<br/>
+<b><center">Mart Wagon</center></b><br/>
+- 나만의 물가를 기록하여 비교하는 앱
 <!--
 **tuatar9a4/tuatar9a4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
